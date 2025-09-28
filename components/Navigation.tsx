@@ -100,9 +100,7 @@ export function Navigation() {
                 type="button"
                 style={{ 
                   minWidth: '48px', 
-                  minHeight: '48px',
-                  display: 'flex !important',
-                  visibility: 'visible !important'
+                  minHeight: '48px'
                 }}
               >
                 {isOpen ? (
