@@ -29,7 +29,7 @@ const stats = [
   { icon: Award, label: 'Projets Réalisés', value: '4+' },
   { icon: Users, label: 'Clients Majeurs', value: '4' },
   { icon: Lightbulb, label: 'Logiciels CAO', value: '7+' },
-  { icon: GraduationCap, label: 'Années d\'Expérience', value: '2+' }
+  { icon: GraduationCap, label: 'Années d\'Expérience', value: '4+' }
 ]
 
 export function About() {
